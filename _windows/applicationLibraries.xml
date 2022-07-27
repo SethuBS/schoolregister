@@ -1,0 +1,11 @@
+<application>
+  <component name="libraryTable">
+    <library name="grails-2.2">
+      <CLASSES>
+        <root url="file://C:/Program Files/grails-2.2.1" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
